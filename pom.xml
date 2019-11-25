@@ -39,6 +39,22 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>${org.springframework-version}</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.webjars.bower/bootstrap -->
+		<!-- 
+		<dependency>
+    		<groupId>org.webjars.bower</groupId>
+    		<artifactId>bootstrap</artifactId>
+    		<version>4.3.1</version>
+		</dependency>
+		 -->
+		<!-- https://mvnrepository.com/artifact/org.webjars.bower/jquery -->
+		<!-- 
+		<dependency>
+    		<groupId>org.webjars.bower</groupId>
+    		<artifactId>jquery</artifactId>
+    		<version>3.4.1</version>
+		</dependency>
+		 -->
 
 		<!-- spring jdbc 추가 -->
 		<dependency>

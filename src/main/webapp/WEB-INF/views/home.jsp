@@ -3,6 +3,7 @@
 <html>
 <head>
 	<title>Home</title>
+	<link rel="stylesheet" href="/webjars/bootstrap/4.3.1/css/bootstrap.min.css"/>
 </head>
 <body>
 <h1>
